@@ -82,6 +82,7 @@
                   width: 50%;
                   height: 540px;
                   border-radius: 50%;
+                  object-fit: cover;
                 }
                 
                 
